@@ -1,2 +1,46 @@
 # POSTECH-CSE-Assignments
 Archive for POSTECH CSE Assignments.
+
+## 2021-F 
+### CSED101: Programming & Problem Solving 
+
+## 2022-S
+### CSED232: Object Oriented Programming 
+
+### CSED233: Data Structure 
+
+### CSED273: Digital Systems 
+
+## 2022-F 
+### CSED211: Computer Systems 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED211)
+
+## 2023-S
+### CSED311: Computer Architecture 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED311)
+
+### CSED342: Artificial Intelligence 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED342)
+
+### CSED490F: Signal Processing (Special Lecture)
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED490F)
+
+## 2023-F
+### CSED312: Operating Systems 
+[Github Repo](https://github.com/choidaedae/CSED312-team30) 
+
+### CSED499I: Research Project I 
+[Github Repo](https://github.com/choidaedae/wavelet-diffusion-segmentation)
+
+### CSED538: Deep Learning (Graduate Course, Final Project)
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED538)
+
+### CSED539: Computer Vision (Graduate Course, Final Project)
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED539)
+
+## 2024-S 
+### Computer Graphics (In SNU exchange)
+### Algorithm (In SNU exchange)
+
+## 2024-F 
+TBD 
