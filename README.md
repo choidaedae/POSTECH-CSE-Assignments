@@ -3,13 +3,17 @@ Archive for POSTECH CSE Assignments.
 
 ## 2021-F 
 ### CSED101: Programming & Problem Solving 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED2101)
 
 ## 2022-S
 ### CSED232: Object Oriented Programming 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED232)
 
 ### CSED233: Data Structure 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED233)
 
 ### CSED273: Digital Systems 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED273)
 
 ## 2022-F 
 ### CSED211: Computer Systems 
@@ -27,10 +31,10 @@ Archive for POSTECH CSE Assignments.
 
 ## 2023-F
 ### CSED312: Operating Systems 
-[Github Repo](https://github.com/choidaedae/CSED312-team30) 
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED312) 
 
 ### CSED499I: Research Project I 
-[Github Repo](https://github.com/choidaedae/wavelet-diffusion-segmentation)
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED499I)
 
 ### CSED538: Deep Learning (Graduate Course, Final Project)
 [Github Repo](https://github.com/choidaedae/POSTECH-CSED538)
@@ -40,7 +44,9 @@ Archive for POSTECH CSE Assignments.
 
 ## 2024-S 
 ### Computer Graphics (In SNU exchange)
+TBD
 ### Algorithm (In SNU exchange)
+TBD
 
 ## 2024-F 
 TBD 
