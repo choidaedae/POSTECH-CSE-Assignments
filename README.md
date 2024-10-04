@@ -3,7 +3,7 @@ Archive for POSTECH CSE Assignments.
 
 ## 2021-F 
 ### CSED101: Programming & Problem Solving 
-[Github Repo](https://github.com/choidaedae/POSTECH-CSED2101)
+[Github Repo](https://github.com/choidaedae/POSTECH-CSED101)
 
 ## 2022-S
 ### CSED232: Object Oriented Programming 
